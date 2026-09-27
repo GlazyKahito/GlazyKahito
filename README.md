@@ -22,7 +22,7 @@
 ### 🧭 About me
 
 * **B.Tech, Information Technology / Computer Science** at KJ Somaiya College of Engineering, Mumbai (2025 – 2029).
-* **Web Development Intern at Ediglobe** (July 2026 – present): shipped an internal delivery-exceptions dashboard and **CRM360**, a full-stack MERN CRM.
+* **Web Development Intern at Ediglobe** (July – September 2026, [certificate](https://www.ediglobe.com/cert/EGCC2459)): shipped an internal delivery-exceptions dashboard and **CRM360**, a full-stack MERN CRM.
 * I build with the **MERN stack and Next.js**, integrate **Google Gemini** into production features, and ship to **Vercel**.
 * I care about products that **show their working** — AI tools that cite their sources, security analysts that explain their verdicts, simulations that compute every packet.
 
