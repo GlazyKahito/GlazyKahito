@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050506,60:3a1a12,100:ff8a4c&height=200&section=header&text=Krutik%20Mhatre&fontSize=60&fontColor=ece6d3&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20GLAZY%20%C2%B7%20a%20web%20%26%20SaaS%20agency&descAlignY=65&descSize=18" alt="Krutik Mhatre, founder of GLAZY" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050506,60:3a1a12,100:ff8a4c&height=200&section=header&text=Krutik%20Mhatre&fontSize=60&fontColor=ece6d3&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20GLAZY%20%C2%B7%20a%20freelance%20web%20%26%20SaaS%20agency&descAlignY=65&descSize=18" alt="Krutik Mhatre, founder of GLAZY" />
 </div>
 
 <p align="center">
   <a href="https://glazy-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/GLAZY-Web%20%26%20SaaS%20agency-ff8a4c?style=for-the-badge&logoColor=white" alt="GLAZY, the agency" />
+    <img src="https://img.shields.io/badge/GLAZY-Freelance%20web%20%26%20SaaS%20agency-ff8a4c?style=for-the-badge&logoColor=white" alt="GLAZY, the agency" />
   </a>
   <a href="https://www.linkedin.com/in/krutik-mhatre-1b313937b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,7 +21,7 @@
 
 ### 🧭 About me
 
-* **Founder of [GLAZY](https://glazy-portfolio.vercel.app)**, a web and SaaS agency: fast, cinematic websites, web apps, SaaS products and AI features for businesses, from the first sketch to launch.
+* **Founder of [GLAZY](https://glazy-portfolio.vercel.app)**, a freelance web and SaaS agency: fast, cinematic websites, web apps, SaaS products and AI features for businesses, from the first sketch to launch.
 * **B.Tech, Information Technology / Computer Science** at KJ Somaiya College of Engineering, Mumbai (2025 – 2029).
 * **Web Development Intern at Ediglobe** (July – September 2026, [certificate](https://www.ediglobe.com/cert/EGCC2459)): shipped an internal delivery-exceptions dashboard and **CRM360**, a full-stack MERN CRM.
 * I build with **Next.js and the MERN stack**, integrate **Google Gemini** into production features, and ship to **Vercel**.
@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <sub>GLAZY, a web &amp; SaaS agency · Mumbai, India · <a href="https://glazy-portfolio.vercel.app">glazy-portfolio.vercel.app</a> · kahitokrutik@gmail.com</sub>
+  <sub>GLAZY, a freelance web &amp; SaaS agency · Mumbai, India · <a href="https://glazy-portfolio.vercel.app">glazy-portfolio.vercel.app</a> · kahitokrutik@gmail.com</sub>
 </p>
