@@ -45,6 +45,18 @@
 
 ---
 
+### ✨ Concept sites
+
+Sites I designed and built for made-up brands, to show clients what GLAZY can make. Each one is live and open source.
+
+| Concept | What it is | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **Prism** | AI SaaS launch page: a cinematic light intro hands off to a real-time refractive glass prism, with live HTML product mock-ups | Next.js 16, React Three Fiber, drei, Motion, Tailwind v4 | [Live](https://prism-glazy.vercel.app) · [Code](https://github.com/GlazyKahito/prism-glazy) |
+| **Maison** | Furniture store with a live 3D configurator: turn the chair or sofa, swap velvet and wood, add that build to a working cart | Next.js 16, React Three Fiber, glTF, Motion, Tailwind v4 | [Live](https://maison-glazy.vercel.app) · [Code](https://github.com/GlazyKahito/maison-glazy) |
+| **Ember** | Restaurant site with a hand-written GLSL wood fire and pointer-reactive embers, menu tabs and a validated reservation form | Next.js 16, React Three Fiber, GLSL, Zod, Motion | [Live](https://ember-glazy.vercel.app) · [Code](https://github.com/GlazyKahito/ember-glazy) |
+
+---
+
 ### 🛠️ Toolkit
 
 | Category | Skills |
