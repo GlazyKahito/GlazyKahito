@@ -84,5 +84,5 @@ Sites I designed and built for made-up brands, to show clients what GLAZY can ma
 ---
 
 <p align="center">
-  <sub>GLAZY, a freelance web &amp; SaaS agency · Mumbai, India · <a href="https://glazy-portfolio.vercel.app">glazy-portfolio.vercel.app</a> · kahitokrutik@gmail.com</sub>
+  <sub>GLAZY, a freelance web &amp; SaaS agency · Mumbai, India · <a href="https://glazy-portfolio.vercel.app">glazy-portfolio.vercel.app</a> · <a href="mailto:kahitokrutik@gmail.com">kahitokrutik@gmail.com</a></sub>
 </p>
