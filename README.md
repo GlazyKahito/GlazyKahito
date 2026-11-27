@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/krutik-mhatre-1b313937b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kahitokrutik@gmail.com">
+  <a href="mailto:krutik@kahito.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/GlazyKahito">
@@ -29,7 +29,7 @@
 
 **Open to** remote internships for 2026–27 and freelance projects through GLAZY.
 
-**Need a website or a web app?** Send a short brief to [kahitokrutik@gmail.com](mailto:kahitokrutik@gmail.com?subject=New%20project%20for%20GLAZY) and GLAZY replies with a plan and a quote.
+**Need a website or a web app?** Send a short brief to [krutik@kahito.in](mailto:krutik@kahito.in?subject=New%20project%20for%20GLAZY) and GLAZY replies with a plan and a quote.
 
 ---
 
@@ -85,5 +85,5 @@ Sites I designed and built for made-up brands, to show clients what GLAZY can ma
 ---
 
 <p align="center">
-  <sub>GLAZY, a freelance web &amp; SaaS agency · Mumbai, India · <a href="https://glazy-portfolio.vercel.app">glazy-portfolio.vercel.app</a> · <a href="mailto:kahitokrutik@gmail.com">kahitokrutik@gmail.com</a></sub>
+  <sub>GLAZY, a freelance web &amp; SaaS agency · Mumbai, India · <a href="https://glazy-portfolio.vercel.app">glazy-portfolio.vercel.app</a> · <a href="mailto:krutik@kahito.in">krutik@kahito.in</a></sub>
 </p>
