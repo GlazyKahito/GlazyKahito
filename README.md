@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:krutik@kahito.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-krutik%40kahito.in-D14836?style=for-the-badge&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/GlazyKahito">
     <img src="https://komarev.com/ghpvc/?username=GlazyKahito&label=PROFILE%20VIEWS&style=for-the-badge&color=ff8a4c" alt="Profile views" />
